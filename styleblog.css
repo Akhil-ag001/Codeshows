@@ -1,0 +1,87 @@
+.blog-heading
+{
+    font-family: Montserrat-black;
+    color: black;
+    font-weight: bold;
+    margin: 0;
+    padding-left: 20px;
+    font-size: 2rem;
+    padding-bottom: 5px;
+    text-align: left;
+}
+.bl1 {
+    background-image: url("https://www.stevejobsportfolio.com/_nuxt/img/garage.37afb20.png");
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    box-sizing: inherit;
+}
+
+.bl2 {
+    margin-left: 0;
+    padding: 0;
+}
+
+.bl2bl1 {
+    background-image: url("https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,q_60,w_965/32334a9e866f8932cf3c55ef65620698.jpg");
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    box-sizing: inherit;
+   
+}
+
+.bl2bl2 {
+    background-image: url("https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/04/Apple-BKC-preview.jpg?w=1500&quality=82&strip=all&ssl=1");
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    box-sizing: inherit;
+   
+}
+
+#blog {
+    background-color: #A35C2B;
+    
+}
+
+.content {
+    left: 0;
+    bottom: 6rem;
+    width: 100%;
+    padding-bottom: 6rem;
+    padding-top: 420px;
+
+    display: block;
+}
+.content-bl2
+{
+    padding-top: 100px;
+    left: 5px;
+    bottom: 3px;
+    color: aliceblue;
+}
+.contentth {
+    padding: 10px;
+    font-weight: bold;
+}
+.content-bl1
+{
+    padding-top: 110px;
+    color: black;
+}

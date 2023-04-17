@@ -1,0 +1,122 @@
+body{
+    font-family: Montserrat-black;
+    text-align: center;
+}
+#page1{
+    height: 600px;
+    background-image: url("https://c1.wallpaperflare.com/preview/518/369/227/web-design-coding-web-developing-macbook.jpg");
+    background-size: cover;
+    background-repeat: no-repeat, repeat;
+}
+.container{
+    text-align: center;
+    padding-left: 35%;
+    padding-right: 0%;
+    margin-left: 0%;
+
+}
+.btn{
+    margin-left: 10px;
+}
+.tags{
+    position: relative;
+    background-color: black;
+    text-align: left;
+}
+.logo{
+    height: 80px;
+    width: 80px;
+}
+.navbar-brand{
+
+    font-size: 2rem;
+    font-family: 'Oswald', sans-serif;
+}
+.nav-item{
+    color: black;
+    padding: 0% 3%;
+    margin-top: 3%;
+}
+.nav-link{
+    font-family: Montserrat-gray;
+    font-size: 1rem;
+}
+.features{
+    background-color: #fff;
+}
+
+.s-bar{
+    margin-left: 18%;
+    margin-top: 2%;
+}
+.user{
+    margin-top: 2%;
+    font-size: 2rem;
+}
+.big-heading{
+    margin-bottom: 30px;
+    
+    margin-top: 40px;
+  }
+h1,h3,h4{
+    
+    color: white;
+  }
+h3,h4{
+    text-align: left;
+}
+  .title-img{
+    width: 480px;
+    height: 500px;
+}
+
+.carousel-item
+{
+    padding: 1% 10%;
+}
+/* events  */
+#pricing{
+    padding: 100px;
+    background-color: #675D50;
+}
+.pricing-col{
+    padding: 3% 2%;
+    
+}
+.price-heading{
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+.pricing-heading1{
+    font-size: 30px;
+}
+.card
+{
+    color: wheat;
+    background-color: #3b3834;;
+}
+.event-head
+{
+    color: white;
+    font-size: 5opx;
+    font-weight: bolder;
+}
+.about-event
+{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.event-image
+{
+    height: 150px;
+    width: 250px;
+}
+
+
+
+
+
+
